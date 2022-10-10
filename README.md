@@ -1,16 +1,31 @@
-# andronico README
+# andronico dark colors README
 
-## Working with Markdown
+## Primera versión de prueba
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Primer experimento en crear temas y extensiones propias.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* Versión de andronico dark colors está hecha en base al tema dark de VSCode.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Para contacto
+
+* `patricio.andronico@gmail.com`
+
+
+**Disfruta!**
+
+*************************
+
+## First testing version
+
+First experiment creating my own themes and extensions.
+
+* andronico dark colors version was made from base dark theme of VSCOde.
+
+
+## For contact
+
+* `patricio.andronico@gmail.com`
+
 
 **Enjoy!**
