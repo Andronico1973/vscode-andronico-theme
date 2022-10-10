@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Patricio Arenas Manterola",
+     "email": "patricio.andronico@gmail.com",
+     "url": "https://github.com/Andronico1973"
+  },
+  "name": "andronico",
+   "icon": "icons/andronico-themes.png",
+  "displayName": "andronico",
+  "description": "dark theme with color saturation",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+    "url": "https://github.com/Andronico1973/vscode-andronico-theme.git",
+    "type": "git"
+  },
+  "publisher": "andronico-themes",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Andronico theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension codigo-color-theme.json"
+      }
+    ]
+  }
+}
